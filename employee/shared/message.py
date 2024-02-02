@@ -1,0 +1,3 @@
+class MessageResponse:
+    CREATE_SUCESS = "CREATE_SUCESS"
+    GET_SUCCESS = "GET_SUCCESS"
